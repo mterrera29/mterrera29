@@ -27,7 +27,7 @@ Soy Matías Gabriel Terrera, actualmente trabajo como docente en la ciudad de Ma
 
 ---
 ## My GitHub stats
-<p align="center">
+<p>
   <a href="https://github.com/mterrera29">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mterrera29&layout=compact&langs_count=8&theme=buefy&count_private=true"/>
   </a>  
