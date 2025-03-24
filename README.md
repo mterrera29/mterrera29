@@ -2,10 +2,10 @@
 Soy Matías Gabriel Terrera, actualmente trabajo como docente en la ciudad de Mar de Plata, Argentina. 
 
 ### 💻 Sobre mí
-- 🚀 Desarrollador Frontend | Docente
+- 🚀 **Desarrollador Frontend | Docente**
+- 📚 Actualmente estudiando la **Tecnicatura Universitaria en Desarrollo Web**, en la **Universidad Nacional de Entre Rios**.
 - 🔥 Apasionado por React, JavaScript, Node.js y MongoDB
 - 🎯 Explorando React Native
-- 📚 Actualmente estudiando la Tecnicatura Universitaria en Desarrollo Web, en la Universidad Nacional de Entre Rios
 
 ---
 
