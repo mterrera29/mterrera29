@@ -1,4 +1,5 @@
-# 👋 ¡Hola! Soy Matías Gabriel Terrera
+# 👋 ¡Hola!
+Soy Matías, actualmente trabajo como docente en la ciudad de Mar de Plata, Argentina. 
 
 ### 💻 Sobre mí
 - 🚀 Desarrollador Frontend | Docente
