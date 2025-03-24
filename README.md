@@ -1,5 +1,5 @@
 # 👋 ¡Hola!
-Soy Matías, actualmente trabajo como docente en la ciudad de Mar de Plata, Argentina. 
+Soy Matías Gabriel Terrera, actualmente trabajo como docente en la ciudad de Mar de Plata, Argentina. 
 
 ### 💻 Sobre mí
 - 🚀 Desarrollador Frontend | Docente
@@ -12,8 +12,8 @@ Soy Matías, actualmente trabajo como docente en la ciudad de Mar de Plata, Arge
 ### 🚀 Lenguajes y Tecnologías
 
 #### 🖥️ **Lenguajes**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 
 #### ⚡ **Tecnologías**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
