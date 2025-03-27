@@ -33,7 +33,7 @@ Soy Matías Gabriel Terrera, actualmente trabajo como docente en la ciudad de Ma
   </a>  
 </p>
 
-### 📫 Conéctate conmigo
+### 📫 Conectate conmigo
 <a href="https://www.linkedin.com/in/matias-gabriel-terrera-4b5601aa/">
     <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>  
