@@ -4,8 +4,8 @@ Soy Matías Gabriel Terrera, actualmente trabajo como docente en la ciudad de Ma
 ### 💻 Sobre mí
 - 🚀 **Desarrollador Frontend | Docente**
 - 📚 Actualmente estudiando la **Tecnicatura Universitaria en Desarrollo Web**, en la **Universidad Nacional de Entre Rios**.
-- 🔥 Aprendiendo React, JavaScript, TypeScript, Node.js y MongoDB
-- 🎯 Explorando React Native
+- 🔥 Aprendiendo React, JavaScript, TypeScript, Node.js y MongoDB.
+- 🎯 Explorando React Native.
 
 ---
 
@@ -36,7 +36,7 @@ Soy Matías Gabriel Terrera, actualmente trabajo como docente en la ciudad de Ma
 
 ### 🎮 [Egipto Games](https://github.com/mterrera29/egipto-games)
 
-¡Bienvenidos a **Egipto Games**, la app interactiva donde los estudiantes de secundaria pueden aprender sobre la fascinante cultura egipcia mientras se divierten! Este sitio web está diseñado para ofrecer a los alumnos una manera divertida y educativa de sumergirse en el mundo de Egipto, todo mientras juegan y descubren.
+App interactiva donde los estudiantes de secundaria pueden aprender sobre la fascinante cultura egipcia mientras se divierten. Este sitio web está diseñado para ofrecer a los alumnos una manera divertida y educativa de sumergirse en el mundo de Egipto, todo mientras juegan y descubren.
 
 
 ### 📝 [set4facil](https://github.com/mterrera29/set4facil)
