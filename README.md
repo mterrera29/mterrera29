@@ -1,5 +1,5 @@
 # 👋 ¡Hola!
-Soy Matías Gabriel Terrera, actualmente trabajo como docente en la ciudad de Mar de Plata, Argentina. 
+Desde 2022 me dedico a estudiar desarrollo web con el objetivo de integrar herramientas tecnológicas al ámbito educativo, donde me desempeño hace más de 10 años como docente. Actualmente busco incorporarme a proyectos donde pueda aplicar mis conocimientos como programador y aportar mi experiencia en trabajo en equipo, planificación y resolución de problemas.
 
 ### 💻 Sobre mí
 - 🚀 **Desarrollador Frontend | Docente**
