@@ -7,6 +7,10 @@ Soy Matías Gabriel Terrera, desde 2022 me dedico a estudiar desarrollo web con 
 - 🔥 Aprendiendo React, JavaScript, TypeScript, Node.js y MongoDB.
 - 🎯 Explorando React Native.
 
+### 📄 Curriculum Vitae
+
+Podés ver mi CV [aquí](./cv.pdf) o descargarlo directamente desde este repositorio.
+
 ---
 
 ### 🚀 Lenguajes y Tecnologías
