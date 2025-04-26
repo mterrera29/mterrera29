@@ -9,7 +9,7 @@ Soy Matías Gabriel Terrera, desde 2022 me dedico a estudiar desarrollo web con 
 
 ### 📄 Curriculum Vitae
 
-Podés ver mi CV [aquí](./cv español.pdf) o descargarlo directamente desde este repositorio.
+Podés ver mi CV [aquí](./cv_español.pdf) o descargarlo directamente desde este repositorio.
 
 ---
 
