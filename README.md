@@ -47,7 +47,7 @@ App interactiva donde los estudiantes de secundaria pueden aprender sobre la fas
 
 **set4facil** es una aplicación web diseñada para facilitar el llenado del formulario SET4, un documento que los docentes de la Provincia de Buenos Aires debemos entregar todos los años. Esta herramienta busca agilizar el proceso y reducir errores, proporcionando una interfaz clara y fácil de usar.
 
-### 🎵 [LyricsApp](https://github.com/mterrera29/lyricsapp)
+### 🎵 [LyricsApp](https://github.com/mterrera29/lyrics-app-ts)
 
 Aplicación web que permite a los usuarios buscar letras de canciones y guardarlas en su cuenta. Utiliza **React** en el frontend, **Firebase Authentication** para el login y **MongoDB** como base de datos para gestionar las canciones.
 
