@@ -4,8 +4,8 @@ Soy Matías Gabriel Terrera, desde 2022 me dedico a estudiar desarrollo web con 
 ### 💻 Sobre mí
 - 🚀 **Desarrollador Frontend | Docente**
 - 📚 Actualmente estudiando la **Tecnicatura Universitaria en Desarrollo Web**, en la **Universidad Nacional de Entre Rios**.
-- 🔥 Aprendiendo React, Next JS, JavaScript, TypeScript, Node.js y MongoDB.
-- 🎯 Explorando React Native.
+- 🔥 Trabajando con React, Next JS, JavaScript, TypeScript, Node.js y MongoDB.
+- 🎯 Explorando Flutter.
 
 ### 📄 Curriculum Vitae
 
